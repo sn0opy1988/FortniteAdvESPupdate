@@ -3,7 +3,7 @@ FortniteAdvESP
 
 without aimbot http://www72.zippyshare.com/v/jHQX8nH8/file.html 
 
-+aimbot http://www105.zippyshare.com/v/bzjaUMgq/file.html
++aimbot + fix http://www112.zippyshare.com/v/eWjCtqQo/file.html
 
 Features:
 - Chams
