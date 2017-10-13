@@ -3,8 +3,9 @@ FortniteAdvESP
 
 without aimbot http://www72.zippyshare.com/v/jHQX8nH8/file.html 
 
-+aimbot + fix http://www8.zippyshare.com/v/GQW3JToF/file.html
+BattleEyeFix http://www90.zippyshare.com/v/nrc9kcXB/file.html
 Features:
+- Aimbot
 - Chams
 - Item and enemy ESP
 
