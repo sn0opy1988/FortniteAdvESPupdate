@@ -3,7 +3,17 @@ FortniteAdvESP
 
 without aimbot http://www72.zippyshare.com/v/jHQX8nH8/file.html 
 
-BattleEyeFix http://www90.zippyshare.com/v/nrc9kcXB/file.html
+FortHook + BattleEyeFix 13.10.17
+http://www90.zippyshare.com/v/nrc9kcXB/file.html
+
+exclude NOEYE.exe fromn antivirus! (fucks drivers AV dont like that)
+Start NOEyE.exe
+Start Fortnite
+Start fav injector (extreme / xenos)
+Inject fav hack.dll
+win
+
+
 Features:
 - Aimbot
 - Chams
