@@ -18,12 +18,14 @@ Features:
 - Aimbot
 - Chams
 - Item and enemy ESP
+- Teleport
 
-
+Press *V* to Telepick up weapons
+Press *B* to Telepick up ammo
+Press *F7* to toggle the aimbot.
 Press *F8* to toggle the chams.
-
 Press *F9* to toggle ESP.
-Press *XBUTTON1* to Aimbot aim
+Press *XBUTTON1* to aimbot aim
 Press *XBUTTON2* to toggle advanced ESP.
 CHANGE IN CONGIG.h
 https://msdn.microsoft.com/de-de/library/windows/desktop/dd375731(v=vs.85).aspx
